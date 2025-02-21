@@ -1,0 +1,219 @@
+CRITICAL - 2025-01-13 00:09:48 --> Invalid file: dashboard.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(53): view('dashboard')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 00:10:27 --> Invalid file: dashboard.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(53): view('dashboard')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 00:30:53 --> Invalid file: dashboard.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(53): view('dashboard')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 00:33:47 --> Invalid file: dashboard.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(53): view('dashboard')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 00:34:25 --> Invalid file: dashboard.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(53): view('dashboard')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 00:41:00 --> Invalid file: dashboard.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(53): view('dashboard')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 07:18:31 --> Argument 3 passed to CodeIgniter\HTTP\Request::fetchGlobal() must be of the type int or null, array given, called in H:\My Drive\Kalkulator\Kalku\system\HTTP\IncomingRequest.php on line 661
+#0 H:\My Drive\Kalkulator\Kalku\system\HTTP\IncomingRequest.php(661): CodeIgniter\HTTP\Request->fetchGlobal('post', 'calculator_view', Array, NULL)
+#1 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(88): CodeIgniter\HTTP\IncomingRequest->getPost('calculator_view', Array)
+#2 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->kalkulator()
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#7 {main}
+CRITICAL - 2025-01-13 07:29:04 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 07:29:39 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 07:32:24 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 07:35:16 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 07:38:46 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 07:44:17 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 07:46:21 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 07:46:48 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 07:47:13 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 07:50:21 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 07:50:52 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 20:44:37 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 20:45:10 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 23:53:04 --> Invalid file: dashboard_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard_view....')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dashboard_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dashboard_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}
+CRITICAL - 2025-01-13 23:53:51 --> Invalid file: dash_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dash_view.php')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('dash_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(55): view('dash_view')
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->dash()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}

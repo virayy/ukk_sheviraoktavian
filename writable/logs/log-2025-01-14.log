@@ -1,0 +1,10 @@
+CRITICAL - 2025-01-14 00:13:37 --> Invalid file: calculator_view.php
+#0 H:\My Drive\Kalkulator\Kalku\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('calculator_view...')
+#1 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('calculator_view', Array, true)
+#2 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(100): view('calculator_view', Array)
+#3 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->kalkulator()
+#4 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#8 {main}

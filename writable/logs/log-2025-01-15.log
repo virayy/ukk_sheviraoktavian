@@ -1,0 +1,12 @@
+CRITICAL - 2025-01-15 00:15:19 --> Invalid argument supplied for foreach()
+#0 H:\My Drive\Kalkulator\Kalku\app\Views\user.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'H:\\My Drive\\Kal...', 22, Array)
+#1 H:\My Drive\Kalkulator\Kalku\system\View\View.php(230): include('H:\\My Drive\\Kal...')
+#2 H:\My Drive\Kalkulator\Kalku\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 H:\My Drive\Kalkulator\Kalku\system\Common.php(1271): CodeIgniter\View\View->render('user', Array, true)
+#4 H:\My Drive\Kalkulator\Kalku\app\Controllers\Home.php(28): view('user', Array)
+#5 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(928): App\Controllers\Home->user()
+#6 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 H:\My Drive\Kalkulator\Kalku\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 H:\My Drive\Kalkulator\Kalku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 H:\My Drive\Kalkulator\Kalku\system\Commands\Server\rewrite.php(45): require_once('H:\\My Drive\\Kal...')
+#10 {main}
